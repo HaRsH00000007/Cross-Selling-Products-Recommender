@@ -239,7 +239,7 @@ The Streamlit app is highly customizable:
 
 ```python
 # In embeddings.py, modify the model initialization
-self.sentence_model = SentenceTransformer('your-preferred-model')
+self.sentence_model = SentenceTransformer('all-MiniLM-L6-v2')
 ```
 
 Popular alternatives:
